@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Open Source Alternative Finder on OSSAF - Open Source Alternative Finder</title><link>https://alternatives-en.ai-term-hub.com/en/</link><description>Recent content in Open Source Alternative Finder on OSSAF - Open Source Alternative Finder</description><generator>Hugo</generator><language>en</language><atom:link href="https://alternatives-en.ai-term-hub.com/en/index.xml" rel="self" type="application/rss+xml"/><item><title>Adobe Photoshop</title><link>https://alternatives-en.ai-term-hub.com/en/alternatives/photoshop/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alternatives-en.ai-term-hub.com/en/alternatives/photoshop/</guid><description>&lt;h1 id="adobe-photoshop--gimp">Adobe Photoshop → GIMP&lt;/h1>
+&lt;h2 id="software-information">Software Information&lt;/h2>
+&lt;ul>
+&lt;li>Commercial software: Adobe Photoshop&lt;/li>
+&lt;li>Open source alternative: GIMP&lt;/li>
+&lt;li>Vendor: Adobe&lt;/li>
+&lt;li>License: GPL-3.0&lt;/li>
+&lt;/ul>
+&lt;h2 id="feature-comparison">Feature Comparison&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Feature&lt;/th>
+ &lt;th>Photoshop&lt;/th>
+ &lt;th>GIMP&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Layer editing&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Filters &amp;amp; effects&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>RAW processing&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>⚠️ Plugin needed&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>CMYK mode&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>⚠️ Plugin needed&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Vector tools&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>Limited&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="advantages">Advantages&lt;/h2>
+&lt;ul>
+&lt;li>Completely free&lt;/li>
+&lt;li>Open source code&lt;/li>
+&lt;li>Cross-platform support (Windows/macOS/Linux)&lt;/li>
+&lt;/ul>
+&lt;h2 id="disadvantages">Disadvantages&lt;/h2>
+&lt;ul>
+&lt;li>Steeper learning curve&lt;/li>
+&lt;li>Some professional features missing&lt;/li>
+&lt;li>Different keyboard shortcuts&lt;/li>
+&lt;/ul>
+&lt;h2 id="migration-difficulty">Migration Difficulty&lt;/h2>
+&lt;p>&lt;strong>Medium&lt;/strong> — Basic operations are similar, but keyboard shortcuts and the location of some features differ. Recommended learning resources: GIMP official documentation and community tutorials.&lt;/p></description></item><item><title>Figma</title><link>https://alternatives-en.ai-term-hub.com/en/alternatives/figma/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alternatives-en.ai-term-hub.com/en/alternatives/figma/</guid><description>&lt;h1 id="figma--penpot">Figma → Penpot&lt;/h1>
+&lt;h2 id="software-information">Software Information&lt;/h2>
+&lt;ul>
+&lt;li>Commercial software: Figma&lt;/li>
+&lt;li>Open source alternative: Penpot&lt;/li>
+&lt;li>Vendor: Figma Inc.&lt;/li>
+&lt;li>License: MPL-2.0&lt;/li>
+&lt;/ul>
+&lt;h2 id="feature-comparison">Feature Comparison&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Feature&lt;/th>
+ &lt;th>Figma&lt;/th>
+ &lt;th>Penpot&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Vector editing&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Components&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Real-time collaboration&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Self-hosting&lt;/td>
+ &lt;td>❌&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>SVG-native&lt;/td>
+ &lt;td>⚠️ Export only&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Prototyping&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="advantages">Advantages&lt;/h2>
+&lt;ul>
+&lt;li>Open source, self-hostable&lt;/li>
+&lt;li>SVG-native design files&lt;/li>
+&lt;li>Cross-platform (browser-based)&lt;/li>
+&lt;li>Free for teams&lt;/li>
+&lt;/ul>
+&lt;h2 id="disadvantages">Disadvantages&lt;/h2>
+&lt;ul>
+&lt;li>Smaller plugin ecosystem&lt;/li>
+&lt;li>Performance with very large files&lt;/li>
+&lt;li>Fewer ready-made templates&lt;/li>
+&lt;/ul>
+&lt;h2 id="migration-difficulty">Migration Difficulty&lt;/h2>
+&lt;p>&lt;strong>Medium&lt;/strong> — Figma files can be imported via SVG export. Component structure may need manual rebuilding. Penpot continues to improve Figma import support.&lt;/p></description></item><item><title>Notion</title><link>https://alternatives-en.ai-term-hub.com/en/alternatives/notion/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alternatives-en.ai-term-hub.com/en/alternatives/notion/</guid><description>&lt;h1 id="notion--obsidian">Notion → Obsidian&lt;/h1>
+&lt;h2 id="software-information">Software Information&lt;/h2>
+&lt;ul>
+&lt;li>Commercial software: Notion&lt;/li>
+&lt;li>Open source alternative: Obsidian&lt;/li>
+&lt;li>Vendor: Notion Labs&lt;/li>
+&lt;li>License: Proprietary core / Open plugin ecosystem&lt;/li>
+&lt;/ul>
+&lt;h2 id="feature-comparison">Feature Comparison&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Feature&lt;/th>
+ &lt;th>Notion&lt;/th>
+ &lt;th>Obsidian&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Markdown notes&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Database / tables&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>⚠️ Via plugins&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Real-time collaboration&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>⚠️ Via Sync&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Offline access&lt;/td>
+ &lt;td>⚠️ Limited&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Local storage&lt;/td>
+ &lt;td>❌&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Bidirectional links&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="advantages">Advantages&lt;/h2>
+&lt;ul>
+&lt;li>Local-first storage, full control of your data&lt;/li>
+&lt;li>Rich plugin ecosystem&lt;/li>
+&lt;li>Fast, offline-ready&lt;/li>
+&lt;li>Bidirectional linking for knowledge graphs&lt;/li>
+&lt;/ul>
+&lt;h2 id="disadvantages">Disadvantages&lt;/h2>
+&lt;ul>
+&lt;li>Collaboration features require paid sync&lt;/li>
+&lt;li>Steeper learning curve for non-technical users&lt;/li>
+&lt;li>Database features less powerful than Notion&lt;/li>
+&lt;/ul>
+&lt;h2 id="migration-difficulty">Migration Difficulty&lt;/h2>
+&lt;p>&lt;strong>Medium-High&lt;/strong> — Note structures can be exported as Markdown, but Notion databases and views need to be reorganized as Obsidian properties or plugin-based tables.&lt;/p></description></item><item><title>Search</title><link>https://alternatives-en.ai-term-hub.com/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alternatives-en.ai-term-hub.com/search/</guid><description>&lt;p>Search across all commercial software alternatives in OSSAF.&lt;/p></description></item><item><title>Slack</title><link>https://alternatives-en.ai-term-hub.com/en/alternatives/slack/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alternatives-en.ai-term-hub.com/en/alternatives/slack/</guid><description>&lt;h1 id="slack--element">Slack → Element&lt;/h1>
+&lt;h2 id="software-information">Software Information&lt;/h2>
+&lt;ul>
+&lt;li>Commercial software: Slack&lt;/li>
+&lt;li>Open source alternative: Element&lt;/li>
+&lt;li>Vendor: Salesforce&lt;/li>
+&lt;li>License: AGPL-3.0 (built on Matrix protocol)&lt;/li>
+&lt;/ul>
+&lt;h2 id="feature-comparison">Feature Comparison&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Feature&lt;/th>
+ &lt;th>Slack&lt;/th>
+ &lt;th>Element&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Channels&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Direct messages&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Threads&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>End-to-end encryption&lt;/td>
+ &lt;td>⚠️ Enterprise only&lt;/td>
+ &lt;td>✅ Default&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Self-hosting&lt;/td>
+ &lt;td>❌&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Voice/video calls&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Bots &amp;amp; integrations&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="advantages">Advantages&lt;/h2>
+&lt;ul>
+&lt;li>Decentralized protocol (Matrix)&lt;/li>
+&lt;li>Default end-to-end encryption&lt;/li>
+&lt;li>Self-hostable for full data sovereignty&lt;/li>
+&lt;li>Federated communication across servers&lt;/li>
+&lt;/ul>
+&lt;h2 id="disadvantages">Disadvantages&lt;/h2>
+&lt;ul>
+&lt;li>Less polished UX than Slack&lt;/li>
+&lt;li>Smaller integration marketplace&lt;/li>
+&lt;li>Server administration overhead if self-hosting&lt;/li>
+&lt;/ul>
+&lt;h2 id="migration-difficulty">Migration Difficulty&lt;/h2>
+&lt;p>&lt;strong>Medium&lt;/strong> — Channel structure maps directly, but Slack-specific apps and workflows must be replaced with Matrix bots and bridges. Users need to adapt to a federated identity model.&lt;/p></description></item><item><title>Zoom</title><link>https://alternatives-en.ai-term-hub.com/en/alternatives/zoom/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alternatives-en.ai-term-hub.com/en/alternatives/zoom/</guid><description>&lt;h1 id="zoom--bigbluebutton">Zoom → BigBlueButton&lt;/h1>
+&lt;h2 id="software-information">Software Information&lt;/h2>
+&lt;ul>
+&lt;li>Commercial software: Zoom&lt;/li>
+&lt;li>Open source alternative: BigBlueButton&lt;/li>
+&lt;li>Vendor: Zoom Communications&lt;/li>
+&lt;li>License: LGPL-3.0&lt;/li>
+&lt;/ul>
+&lt;h2 id="feature-comparison">Feature Comparison&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Feature&lt;/th>
+ &lt;th>Zoom&lt;/th>
+ &lt;th>BigBlueButton&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>HD video&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Screen sharing&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Recording&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Breakout rooms&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Self-hosting&lt;/td>
+ &lt;td>❌&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Whiteboard&lt;/td>
+ &lt;td>⚠️ Limited&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Polls &amp;amp; quizzes&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Large webinars&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>⚠️ Needs tuning&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="advantages">Advantages&lt;/h2>
+&lt;ul>
+&lt;li>Purpose-built for education and training&lt;/li>
+&lt;li>Open source, self-hostable&lt;/li>
+&lt;li>Strong whiteboard and engagement tools&lt;/li>
+&lt;li>No per-user licensing cost&lt;/li>
+&lt;/ul>
+&lt;h2 id="disadvantages">Disadvantages&lt;/h2>
+&lt;ul>
+&lt;li>Requires server administration&lt;/li>
+&lt;li>Less suited for large enterprise webinars&lt;/li>
+&lt;li>Mobile experience less polished&lt;/li>
+&lt;/ul>
+&lt;h2 id="migration-difficulty">Migration Difficulty&lt;/h2>
+&lt;p>&lt;strong>Medium-High&lt;/strong> — Best fit for education / training use cases. Scheduling and LMS integration need reconfiguration. Hardware sizing for self-hosting requires planning.&lt;/p></description></item></channel></rss>
